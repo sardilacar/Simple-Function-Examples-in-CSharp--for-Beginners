@@ -1,0 +1,8 @@
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\bin\Debug\FunctionForBeginners.exe.config
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\bin\Debug\FunctionForBeginners.exe
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\bin\Debug\FunctionForBeginners.pdb
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\obj\Debug\FunctionForBeginners.csproj.AssemblyReference.cache
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\obj\Debug\FunctionForBeginners.csproj.SuggestedBindingRedirects.cache
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\obj\Debug\FunctionForBeginners.csproj.CoreCompileInputs.cache
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\obj\Debug\FunctionForBeginners.exe
+C:\Users\ardil\OneDrive\Masaüstü\FunctionForBeginners\FunctionForBeginners\obj\Debug\FunctionForBeginners.pdb
